@@ -4,11 +4,11 @@ I'm a junior developer who enjoys building things from the ground up: web applic
 
 ### Projects
 
-**SAID** (Sistema de Administración de Información Docente). A production web application built for the University of Montevideo to manage critical academic data. I handled both backend and frontend: Python + Flask + SQLAlchemy on the server side and a React + TypeScript UI for staff interaction and data visualization. I also worked on the CI/CD pipeline and dealt with Dockerization.
+**SAID** (Sistema de Administración de Información Docente): A production web application built for the University of Montevideo to manage critical academic data. I handled both backend and frontend: Python + Flask + SQLAlchemy on the server side and a React + TypeScript UI for staff interaction and data visualization. I also worked on the CI/CD pipeline and dealt with Dockerization.
 
-**Quantum Computing Internship** — I interned at QuantumSouth investigating performance, cost and configuration analysis of quantum algorithms on IBM quantum computers.
+**Quantum Computing Internship**:  I interned at QuantumSouth investigating performance, cost and configuration analysis of quantum algorithms on IBM quantum computers.
 
-**Game Engine** — a hobby project aimed at learning. Built in C, initially following OpenGL tutorials and now transitioning to Vulkan. I plan to incorporate Rust into the project in the future.
+**Game Engine**: a hobby project aimed at learning. Built in C, initially following OpenGL tutorials and now transitioning to Vulkan. I plan to incorporate Rust into the project in the future.
 
 ### Interests
 

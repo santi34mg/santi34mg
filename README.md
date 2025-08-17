@@ -17,7 +17,7 @@ Language and compiler design with a focus on control and ergonomics, low overhea
 ### Stack
 
 C, Rust (learning), Python, TypeScript  
-Neovim, tmux, Linux (Arch, btw), Git, Docker
+Neovim, tmux, Linux, Git, Docker
 
 I prefer working on low level systems but know when to leverage higher level abstractions.
 

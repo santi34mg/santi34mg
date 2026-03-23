@@ -2,23 +2,13 @@
 
 I'm a junior developer who enjoys building things from the ground up: web applications, compilers, game engines and developer tooling. I'm driven by curiosity and a desire to understand systems deeply. I care about performance, correctness and clarity and I'm always looking to learn by building.
 
-### Projects
+## My project picks
 
-**SAID** (Sistema de Administración de Información Docente): A production web application built for the University of Montevideo to manage critical academic data. I handled both backend and frontend: Python + Flask + SQLAlchemy on the server side and a React + TypeScript UI for staff interaction and data visualization. I also worked on the CI/CD pipeline and dealt with Dockerization.
+**Fiber**: a compiler for my language Fib. Written in Rust and still in development, it aims for production quality.
 
-**Quantum Computing Internship**:  I interned at QuantumSouth investigating performance, cost and configuration analysis of quantum algorithms on IBM quantum computers.
+## Stack
 
-**Game Engine**: a hobby project aimed at learning. Built in C, initially following OpenGL tutorials and now transitioning to Vulkan. The project has been abandoned.
-
-**Fiber**: a compiler for my (work in progress) language Fib. It is written in Rust and is still being developed. The project aimes to have no dependencies, be self-contained and maintain a production-level quality. 
-
-### Interests
-
-Language and compiler design with a focus on control and ergonomics, low overhead abstractions, static analysis and efficient runtime systems. Also interested in web development, though I mostly focus on backend systems and infrastructure.
-
-### Stack
-
-C, Rust (learning), Python, TypeScript  
+C/C++, Rust, Python, TypeScript
 Neovim, tmux, Linux, Git, Docker
 
 I prefer working on low level systems but know when to leverage higher level abstractions.
